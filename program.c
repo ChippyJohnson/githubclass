@@ -8,6 +8,6 @@ void  main()
     }
     while()
     {
-
+        printf("hai hell0");
     }
 }
