@@ -2,4 +2,8 @@
 void  main()
 {
     printf("hai");
+    for()
+    {
+
+    }
 }
